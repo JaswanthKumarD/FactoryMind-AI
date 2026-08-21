@@ -1,0 +1,10 @@
+fastapi==0.116.1
+uvicorn[standard]==0.35.0
+pydantic==2.11.7
+numpy==1.26.4
+pandas==2.3.2
+scikit-learn==1.7.1
+joblib==1.5.1
+ortools==9.14.6206
+reportlab==4.4.3
+python-multipart==0.0.20

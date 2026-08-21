@@ -1,0 +1,17 @@
+{
+  "cycle_mae_minutes": 1.42,
+  "cycle_r2": 0.384,
+  "failure_accuracy": 92.4,
+  "training_rows": 2500,
+  "features": [
+    "machine_age_years",
+    "load_percent",
+    "temperature_c",
+    "vibration_mm_s",
+    "hours_since_maintenance",
+    "batch_size",
+    "operator_experience_years",
+    "tool_wear_percent",
+    "material_hardness"
+  ]
+}
