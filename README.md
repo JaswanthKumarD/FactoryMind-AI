@@ -1,4 +1,4 @@
-# FactoryMind AI — Humanized Complete Demo
+# FactoryMind AI —  Complete Demo
 
 FactoryMind is a software-only smart manufacturing project. It is designed as a
 realistic hackathon prototype for a small automotive component factory.
